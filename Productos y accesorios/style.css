@@ -1,0 +1,62 @@
+img{
+
+	left: 20%;
+	width: 55%;
+}
+
+img1{
+	left: 20px;
+	width: 45%;
+}
+
+img2{
+	width: 40%;	
+	left: 40px;
+}
+img4{
+	align: center;
+	right: 40px;	
+	left: 60px;
+}
+img5{
+	text-align: center;
+	right: 40px;	
+	left: 50px;
+}
+img6{
+	left: 50px;
+	right: 40px;	
+	text-align: center;
+}
+
+
+#banner{
+	height:200px;
+    color: white;
+    width: 100%;
+
+}
+
+h1{
+	font-size: 300%;
+	margin-top: -1em;
+	width: 100%;
+	height: 15px;
+	color: red;
+	text-align: center;
+	background-color: black;
+}
+p{
+    font-size: 23px;
+	text-align: center;
+}
+#border{
+	font-size: 32px;
+	border-color: black;
+	border: black;
+}
+#table2{
+
+	width: 90%;
+	left: 50px;
+}
