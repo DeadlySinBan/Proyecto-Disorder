@@ -1,0 +1,38 @@
+h1 {
+    color: white;
+}
+h2 {
+    color: red;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    text-align: center;
+}
+
+.form-container {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 5px;
+    color: aliceblue;
+}
+
+.form-input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+.form-button {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
